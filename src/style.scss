@@ -20,6 +20,20 @@
     main{
         position: relative;
         z-index: 111111;
-        color: #fff;
+        // color: #fff;
+        .navbar{
+            width: 100%;
+            section{
+                margin: 0 auto;
+                &:nth-child(1){
+                    padding: 10px 20px;
+                    width: 80%;
+                    border: 1px solid #fff;
+                    display: flex;
+                    justify-content: space-between;
+                }
+            }
+        }
     }
 }
+

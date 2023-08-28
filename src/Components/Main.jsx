@@ -1,12 +1,12 @@
 import React from 'react';
-import mainImage from "../assets/backPic.jpg";
+import Navbar from './Navbar';
 
 const Main = () => {
   return (
     <div className='mainContainer'>
         <div className="coverBack"></div>
         <main>
-            ssdws
+            <Navbar />
         </main>
     </div>
   )
