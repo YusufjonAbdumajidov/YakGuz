@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
 }
 
 .mainContainer{
@@ -31,6 +33,20 @@
                     border: 1px solid #fff;
                     display: flex;
                     justify-content: space-between;
+                    span{
+                        font-weight: bold;
+                    }
+                }
+                &:nth-child(2){
+                    padding: 20px 20px;
+                    border-radius: 14px;
+                    width: 80%;
+                    border: 1px solid #fff;
+                    display: flex;
+                    justify-content: space-between;
+                    div{
+                        display: flex;
+                    }
                 }
             }
         }
