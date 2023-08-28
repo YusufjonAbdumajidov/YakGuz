@@ -8,11 +8,14 @@ const Navbar = () => {
             <span>G’uzor shaxri, Mustaqillik ko’chasi 41 uy</span>
         </section>
         <section>
-            <h1>YAKGUZ</h1>
             <div>
                 <p>Ma'lumot</p>
                 <p>Rahbariyat</p>
                 <p>Qabul</p>
+            </div>
+            <h1>YAKGUZ</h1>
+            <div>
+                
                 <p>...</p>
                 <p>...</p>
                 <p>Aloqa</p>
