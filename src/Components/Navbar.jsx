@@ -13,7 +13,7 @@ const Navbar = () => {
                 <p>Rahbariyat</p>
                 <p>Qabul</p>
             </div>
-            <h1>YAKGUZ</h1>
+            <h1 className='logo'>YAKGUZ</h1>
             <div>
                 
                 <p>...</p>

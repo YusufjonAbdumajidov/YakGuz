@@ -6,7 +6,10 @@ const Main = () => {
     <div className='mainContainer'>
         <div className="coverBack"></div>
         <main>
-            <Navbar />
+          <Navbar />
+          <p>Amu-Qashqadaryo irrigatsiya tizimlari havza boshqarmasi xuzuridagi</p>  
+          <h1>Yakkabog-G’uzor irrigatsiya tizimi boshqarmasi</h1>
+          <button>Vazirlik rasmiy sayti</button>
         </main>
     </div>
   )
