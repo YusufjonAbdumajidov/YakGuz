@@ -13,15 +13,15 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    // display: flex;
-    // flex-direction: column;
-    // align-items: center;
-    // justify-content: center;
     .showcase{
         text-align: center;
         transform: translateY(160px);
         h1{
             font-size: 70px;
+            color: #fff;
+        }
+        p{
+            font-size: 30px;
             color: #fff;
         }
     }
