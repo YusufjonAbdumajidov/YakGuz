@@ -82,7 +82,6 @@
                     }
                     div{
                         display: flex;
-                        // border: 1px solid #fff;
                         p{
                             margin-right: 30px ;
                             cursor: pointer;
@@ -90,6 +89,7 @@
                             letter-spacing: 1px;
                             font-weight: bold;
                             font-size: 18px;
+                            text-decoration: none;
                             &:nth-child(6){
                                 margin-right: 0;
                             }

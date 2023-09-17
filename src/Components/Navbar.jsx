@@ -21,7 +21,7 @@ const Navbar = () => {
                   <li>Huquq va majburiyatlar</li>
                 </div>
               </div> */}
-                <Link to='/malumotlar'><p>Ma'lumotlar</p></Link> 
+                <Link style={{textDecoration: "none"}} to='/malumotlar'><p>Ma'lumotlar</p></Link> 
                 <p>Rahbariyat</p>
                 <p>Qabul</p>
                 <p>Aloqa</p>
