@@ -13,8 +13,6 @@ const Navbar = () => {
                 <p>Ma'lumot</p>
                 <p>Rahbariyat</p>
                 <p>Qabul</p>
-                <p>...</p>
-                <p>...</p>
                 <p>Aloqa</p>
             </div>
         </section>
