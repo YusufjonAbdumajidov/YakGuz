@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import { BsGlobe2, BsChevronDown, BsChevronUp } from "react-icons/bs";
 
 const Navbar = () => {
-  const [ showDropdown, setShowDropdown ] = useState(false);
   return (
     <div className="navbar">
         <section>
@@ -13,7 +12,7 @@ const Navbar = () => {
         <section>
             <h1 className='logo'>YAKGUZ</h1>
             <div>
-              <div className="dropdown">
+              {/* <div className="dropdown">
                 <li className="moreBtn" onClick={() => setShowDropdown(!showDropdown) }>Ma'lumotlar</li>
                 <div className="dropdown-content">
                   <li>Umumiy qoidalar</li>
@@ -21,7 +20,8 @@ const Navbar = () => {
                   <li>Vazifa va funksiyalar</li>
                   <li>Huquq va majburiyatlar</li>
                 </div>
-              </div>
+              </div> */}
+                <Link to='/malumotlar'><p>Ma'lumotlar</p></Link> 
                 <p>Rahbariyat</p>
                 <p>Qabul</p>
                 <p>Aloqa</p>
