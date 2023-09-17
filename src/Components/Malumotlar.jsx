@@ -6,6 +6,7 @@ const Malumotlar = () => {
 
         <div className="qoidalar">
             <h1>Umumiy Qoidalar</h1>
+            <div className="line"></div>
             <div className="qoidalar-jamlami">
                 <section>
                     Ushbu nizom Amu-Qashqadaryo irrigatsiya tizimlari xafza boshqarmasi xuzuridagi Yakkabog'- G'uzor irrigatsiya tizimi boshqarmasi (keyingi urinlarda boshqarma deb ataladi) maqomi, asosiy vazifalari, funksiyalari vs huquqlarini hamda faoliyatining tashkiliy asoslarini belgilaydi.
@@ -19,7 +20,9 @@ const Malumotlar = () => {
                 <section>
                     Amu-Qashqadaryo irrigatsiya tizimlari xafza boshqarmasi xuzuridagi Yakkabog'- G'uzor irrigatsiya tizimi boshqarmasi yuridik shaxs hisoblanadi. Ular O'zbekiston Respublikasi davlat gerbi tasviri tushirilgan va o'z nomi davlat tilida yozilgan muxri va blankalarga, mustaqil balansga, O'zbekiston Respublikasi moliya vazirligi g'aznachilik shaxsiy hizob raqamlariga banklarda xisob raqamlariga ega.
                 </section>
-                <section></section>
+                <section>
+                    Amu-Qashqadaryo irrigatsiya tizimlari xafza boshqarmasi xuzuridagi Yakkabog'- G'uzor irrigatsiya tizimi boshqarmasini rasmiy nomlanishi: Amu-Qashqadaryo irrigatsiya tizimlari xavza boshqarmasini huzuridagi Yakkabog-Guzor irrigatsiya tizimi boshqarmasi, qisqartitilgan noi Yakkabog'-G'uzor ITB.
+                </section>
                 <section>
                     Amu-Qashqadaryo irrigatsiya tizimlari xafza boshqarmasi xuzuridagi Yakkabog'- G'uzor irrigatsiya tizimi boshqarmasining yuridik manzili: Qashqadaryo viloyati, G'uzor shaxri, Mustaqillik ko'chasi 41-uy.
                 </section>
