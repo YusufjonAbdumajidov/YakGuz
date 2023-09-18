@@ -15,6 +15,7 @@ const Malumotlar = () => {
                     </p>
                 </section>
                 <section>
+                    <h1>2</h1>
                     <div className="blackCover"></div>
                     <p>
                         Amu-Qashqadaryo irrigatsiya tizimlari xafza boshqarmasi xuzuridagi Yakkabog'- G'uzor irrigatsiya tizimi boshqarmasi "O'zbekiston respublikasi prezidentining "O'zbekiston respublikasi Suv xujaligi vazirligi faoliyatini takomillashtirish bo'yicha qushimcha chora-tadbirlar tug'risidagi" 2018 yil 29 Noyabirdagi PQ-4039-son qarori hamda" O'zbekiston respublikasi Suv Hujaligi vazirligi 2018 yil 3 dekabrdagi 168-sonli buyrug'i bilan tashkil etilgan hamda O'zbekiston respublikasi prezidentining 2021 yil 6 apreldagi "Suv resurslarini foydalanishdagi davlat boshqaruvi va nazorat tizimi yanada takomillashtirish hamda suv hujaligi obyektlarini havfsizligini taminlash chora tadbirlari to'g'risida" gi PF-6200 - son farmoni hamda O'zbekiston Respublikasi suv hujaligi vazirligi faoliyatini yanada takomillashtirish chora tadbirlari to'g'risidagi PQ-5055-son qarori va O'zbekiston Respublikasi vairlar maxkamasining 573-sonli qarori va Suv hujaligi tizimlari hava boshqarmasi 2021 yil 4 oktyabirdagi 111-sonli buyruqlari asosida Nizom qayta ishlab chiqarilgan.
