@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import tashImage from "../assets/tashkilot.jpg";
 
 const Malumotlar = () => {
   return (
@@ -57,7 +58,10 @@ const Malumotlar = () => {
         <div className="tashkiliy_tuzilma">
             <h1>Tashkiliy Tuzilma</h1>
             <div>
-                <section>Yakkabog'-G'uzor boshqarmasi tuzilmasiga quyidagilar kiradi: Yakkabog'-G'uzor boshqarmasining markaziy apparati: boshqaruv hodimlarining umumiy shtatlar soni - 7birlik. </section>
+                <section>
+                    Yakkabog'-G'uzor boshqarmasi tuzilmasiga quyidagilar kiradi: Yakkabog'-G'uzor boshqarmasining markaziy apparati: boshqaruv hodimlarining umumiy shtatlar soni - 7birlik. 
+                </section>
+                <img src={tashImage} alt="tashImage" />
             </div>
         </div>
 
