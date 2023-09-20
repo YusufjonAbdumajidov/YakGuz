@@ -54,6 +54,13 @@ const Malumotlar = () => {
             </div>
         </div>
 
+        <div className="tashkiliy_tuzilma">
+            <h1>Tashkiliy Tuzilma</h1>
+            <div>
+                <section>Yakkabog'-G'uzor boshqarmasi tuzilmasiga quyidagilar kiradi: Yakkabog'-G'uzor boshqarmasining markaziy apparati: boshqaruv hodimlarining umumiy shtatlar soni - 7birlik. </section>
+            </div>
+        </div>
+
     </div>
   )
 }
