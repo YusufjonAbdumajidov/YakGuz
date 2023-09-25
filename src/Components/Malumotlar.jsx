@@ -67,6 +67,42 @@ const Malumotlar = () => {
             </div>
         </div>
 
+        <div className="funksiyalar">
+            <h1>Vazifa va Funksiyalar</h1>
+            <div>
+                <section>
+                    <p>
+                        Amu-Qashqadaryo irrigatsiya tizimlari haboshqarmasi xuzuridagi Yakkabog'-G'uzor irrigatsiya tizmi boshqarmasining vazifa va funksiyalarini amalga oshirish. 
+                    </p>
+                </section>
+                <section>
+                    <p>
+                        Kompleks ijtimoiy iqtisodiy rivojlantirish sektorlari bilan hamkorlik qilish.
+                    </p>
+                </section>
+                <section>
+                    <p>
+                        Irrigatsiya tizimi bo'yicha suv resurslaridan maqsadli va oqilona foydalanishi hamda suvdan foydalanish tartibiga rioya etilishini ta'minlash.
+                    </p>
+                </section>
+                <section>
+                    <p>
+                       Suv hujaligi soxasida resurs tejaydigan texnologiyalar, zamonaviy qurislish materiallari, ilg'or xorijiy tajribani keng qullash.
+                    </p>
+                </section>
+                <section>
+                    <p>
+                       Suv xujaligida bozor iqtisodiyoti tamoyillari, davlat xususiy sherikchilik mexanizmlari va autsorsingni joriy qilish.
+                    </p>
+                </section>
+                <section>
+                    <p>
+                       Suv xujaligi soxasida oliy o'quv muassasalari talabalari va kasb hunar kolleji o'quvchilarining o'quv ishlab chiqarish amaliyotini utkazishda hamkorlik qiladi.
+                    </p>
+                </section>
+            </div>
+        </div>
+
     </div>
   )
 }
