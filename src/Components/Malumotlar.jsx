@@ -131,7 +131,7 @@ const Malumotlar = () => {
                     <p>Irrigatsiya tizimi boshqarmasi bulinmalariga kadrlarni tanlash va joy joyiga quyish, ularning samarali faoliyati uchun zarur sharoitlar yaratish, xududiy bulimlarda kadrlar zaxirasini shakillantirish.</p>
                 </section>
                 <section>
-                    <p>Irrigatsiya tizimi boshqarmasi hodilariga mukofotlar, lavozim maoshiga qo'shimchalar, moddiy yordam, ragbatlantirish tulovlarini tulash va tashkiliy choralar qullash tugrisida qaror qabul qilish, hodimlarni davlat mukofotlari va idoraviy mukofotlar bilan taqdirlash tugrisida vazirlikka takliflar kiritish.</p>
+                    <p>Irrigatsiya tizimi boshqarmasi hodilariga mukofotlar, lavozim maoshiga qo'shimchalar, hodimlarni davlat mukofotlari va idoraviy mukofotlar bilan taqdirlash tugrisida vazirlikka takliflar kiritish.</p>
                 </section>
             </div>
         </div>
