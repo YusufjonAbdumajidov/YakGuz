@@ -103,6 +103,39 @@ const Malumotlar = () => {
             </div>
         </div>
 
+        <div className="majburiyatlar">
+            <h1>Huquq va Majburiyatlar</h1>
+            <div>
+                <section>
+                    <p>O'z vakolatiga kiradigon masalalarni xal etish uchun zarur buladigon malumotlarni davlat va hujalik boshqaruvi organlarining tumanlar bulinmalaridan mahalliy davlat hokimiyati organlaridan belgilangan tartibda surash va olish.</p>
+                </section>
+                <section>
+                    <p>O'z vakolatlariga kiradigon masalalar bo'yicha vazirlikning hududiy bo'linmalariga va maxalliy hokimiyat organlariga kurib chiqish uchun takliflar kiritish.</p>
+                </section>
+                <section>
+                    <p>Suv resurslaridan foydalanish tugrisida kelishish uchun taqdim qilinadigon qarorlar loyihalari bo'yicha xulosalar berish.</p>
+                </section>
+                <section>
+                    <p>Suv qonunchiligini buzganligi uchun aqibdor shaxslarni javobgarlikka tortish bo'yicha takliflar kiritish.</p>
+                </section>
+                <section>
+                    <p>Hujalik sudlariga suv xujalik tashkilotlarining manfatlarini ximoya qiluvchi davo arizalarini berish.</p>
+                </section>
+                <section>
+                    <p>Irrigatsiya tizimi boshqarmalari qonun hujjatlarida kuzda tutilgan boshqa huquqlarga ham ega bulishlari mumkin.</p>
+                </section>
+                <section>
+                    <p>Aniqlangan muammolarni har tomonlama va chuqur taxlil qilish hamda umumlashtirish asosida suv hujaligini rivojlantirish tugrisida takliflar tayyorlash.</p>
+                </section>
+                <section>
+                    <p>Irrigatsiya tizimi boshqarmasi bulinmalariga kadrlarni tanlash va joy joyiga quyish, ularning samarali faoliyati uchun zarur sharoitlar yaratish, xududiy bulimlarda kadrlar zaxirasini shakillantirish.</p>
+                </section>
+                <section>
+                    <p>Irrigatsiya tizimi boshqarmasi hodilariga mukofotlar, lavozim maoshiga qo'shimchalar, moddiy yordam, ragbatlantirish tulovlarini tulash va tashkiliy choralar qullash tugrisida qaror qabul qilish, hodimlarni davlat mukofotlari va idoraviy mukofotlar bilan taqdirlash tugrisida vazirlikka takliflar kiritish.</p>
+                </section>
+            </div>
+        </div>
+
     </div>
   )
 }

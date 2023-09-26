@@ -247,6 +247,40 @@
             }
         }
     }
+    .majburiyatlar{
+        padding: 40px;
+        width: 100%;
+        // border: 1px solid #111;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        div{
+            margin-top: 40px;
+            background-color: rgb(58, 58, 226);
+
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+
+            section{
+                // border: 1px solid #111;
+                width: 400px;
+                height: 160px;
+                margin:  20px 0;
+                padding: 14px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background-color: rgb(58, 58, 226);
+                p{
+                    color: #fff;
+                    font-size: 18px;
+                    letter-spacing: 1px;
+                }
+            }
+        }
+    }
 }
 
 
