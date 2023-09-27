@@ -9,7 +9,7 @@ const Main = () => {
           <Navbar />
           <div className="showcase">
             <p>Amu-Qashqadaryo irrigatsiya tizimlari havza boshqarmasi xuzuridagi</p>  
-            {/* <h1>Yakkabog-G’uzor irrigatsiya tizimi boshqarmasi</h1> */}
+            <h1>Yakkabog-G’uzor irrigatsiya tizimi boshqarmasi</h1>
             {/* <button>Vazirlik rasmiy sayti</button> */}
           </div>
           
