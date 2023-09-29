@@ -6,7 +6,16 @@ const About = () => {
   return (
     <div className='about'>
         <h1>Yosh kadrlar</h1>
-        <img src={kadrlar1} alt="" />
+        <div>
+            <section>
+                <img src={kadrlar1} alt="" />
+                <p>Ayni paytda Yakkabog';G'uzor irrigatsiya tizimi boshqarmasida 6 nafar 30 yoshgacha bulgan yoshlar faoliyat yuritmoqda. "Paxtaobod" kaalida olisdan qatnab ishlovchi 2 nafar yosh hodimlarga suvchilar uyida qolib ishlashlari uchun barcha sharoitlar yaratildi.</p>
+            </section>
+            <section>
+                <img src={kadrlar2} alt="" />
+                <p>Shuningdek, xodimlarning tartib-intizomi, ishga kelib-ketishi, uz xizmat vazifalarini sidqidildan bajarishi bilan bog'liq masalalar muxokoma qilindi. Yangi qabul qilingan O'zbekiston Respublikasining "Mexnat kodeksi" haqida huquqiy tushunchalar berildi.</p>
+            </section>
+        </div>
     </div>
   )
 }
