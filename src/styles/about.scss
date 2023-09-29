@@ -5,6 +5,9 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    span{
+        color: blue;
+    }
     div{
         display: flex;
         justify-content: space-between;

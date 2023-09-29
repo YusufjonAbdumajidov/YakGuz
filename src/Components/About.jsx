@@ -5,6 +5,7 @@ import kadrlar2 from "../assets/kadrlar2.jpg";
 const About = () => {
   return (
     <div className='about'>
+        <span>-YAKGUZ-</span>
         <h1>Yosh kadrlar</h1>
         <div>
             <section>
