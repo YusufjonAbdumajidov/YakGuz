@@ -14,6 +14,9 @@ const Main = () => {
           </div>
           
         </main>
+        <div className="infoAbout">
+          <h1>Yosh kadrlar</h1>
+        </div>
     </div>
   )
 }
