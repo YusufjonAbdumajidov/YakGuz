@@ -17,6 +17,9 @@ const About = () => {
                 <p>Shuningdek, xodimlarning tartib-intizomi, ishga kelib-ketishi, uz xizmat vazifalarini sidqidildan bajarishi bilan bog'liq masalalar muxokoma qilindi. Yangi qabul qilingan O'zbekiston Respublikasining "Mexnat kodeksi" haqida huquqiy tushunchalar berildi.</p>
             </section>
         </div>
+        <div>
+          <button>To'liq Ma'lumotlar</button>
+        </div>
     </div>
   )
 }
