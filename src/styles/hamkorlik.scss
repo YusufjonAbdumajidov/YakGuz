@@ -1,0 +1,19 @@
+.hamkorlik{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 40px 40px 40px ;
+    background-color: rgb(58, 58, 226);
+    section{
+        border: 1px solid #111;
+        &:nth-child(1){
+            width: 45%;
+        }
+        &:nth-child(2){
+            width: 45%;
+        }
+    }
+    img{
+        height: 200px;
+    }
+}
