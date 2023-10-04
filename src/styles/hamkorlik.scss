@@ -1,7 +1,7 @@
 .hamkorlik{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     padding: 80px 40px 40px 40px ;
     background-color: rgb(58, 58, 226);
     section{
@@ -10,10 +10,16 @@
             width: 45%;
         }
         &:nth-child(2){
-            width: 45%;
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+            img{
+                height: 340px;
+                &:nth-child(1){
+                    margin-bottom: 20px;
+                }
+            }
         }
     }
-    img{
-        height: 200px;
-    }
+    
 }
