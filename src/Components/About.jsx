@@ -1,6 +1,7 @@
 import React from 'react';
 import kadrlar1 from "../assets/kadrlar1.jpg";
 import kadrlar2 from "../assets/kadrlar2.jpg";
+import { Link } from 'react-router-dom';
 
 const About = () => {
   return (
@@ -18,7 +19,10 @@ const About = () => {
             </section>
         </div>
         <div>
+          <Link to="/malumotlar">
           <button>To'liq Ma'lumotlar</button>
+          </Link>
+          
         </div>
     </div>
   )
