@@ -10,7 +10,7 @@ const Main = () => {
           <div className="showcase">
             <p>Amu-Qashqadaryo irrigatsiya tizimlari havza boshqarmasi xuzuridagi</p>  
             <h1>Yakkabog-G’uzor irrigatsiya tizimi boshqarmasi</h1>
-            {/* <button>Vazirlik rasmiy sayti</button> */}
+            <button > <a style={{textDecoration: "none"}} href="https://suvchi.gov.uz/uz" >Vazirlik rasmiy sayti</a> </button>
           </div>
           
         </main>

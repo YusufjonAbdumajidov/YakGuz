@@ -39,6 +39,10 @@
             letter-spacing: 1px;
             margin-top: 30px;
             font-weight: bold;
+            background-color: rgb(58, 58, 226);
+            a{
+                color: #fff;
+            }
         }
     }
     .coverBack{
@@ -53,7 +57,7 @@
         // color: #fff;
         .navbar{
             width: 100%;
-          
+            
             section{
                 margin: 0 auto;
                 &:nth-child(1){
@@ -103,4 +107,10 @@
         }
     }
 }
+
+
+
+
+
+
 
