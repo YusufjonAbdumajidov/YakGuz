@@ -1,8 +1,9 @@
 import React from 'react';
 import { BsTelegram } from "react-icons/bs"
+import {  BiCopyright } from "react-icons/bi";
 
 const Contact = () => {
-  return (
+  return <>
     <div className='contactContainer'>
         <section>
             <h1>YAKGUZ</h1>
@@ -23,7 +24,10 @@ const Contact = () => {
             <p>Manzil: G’uzor shaxri, Mustaqillik ko’chasi 41 uy</p>
         </section>
     </div>
-  )
+    <footer>
+        <p><BiCopyright /> Copyright 2023 - All rights reserved</p>
+    </footer>
+  </>
 }
 
 export default Contact
