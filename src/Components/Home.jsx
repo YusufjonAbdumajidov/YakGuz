@@ -3,6 +3,7 @@ import React from "react";
 import Main from "./Main";
 import About from "./About";
 import Hamkorlik from "./Hamkorlik";
+import Contact from "./Contact";
 
 
 const Home = () => {
@@ -10,6 +11,7 @@ const Home = () => {
       <Main />
       <About />
       <Hamkorlik />
+      <Contact />
   </>
 }
 
