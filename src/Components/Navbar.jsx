@@ -22,8 +22,8 @@ const Navbar = () => {
                 </div>
               </div> */}
                 <Link style={{textDecoration: "none"}} to='/malumotlar'><p>Ma'lumotlar</p></Link> 
-                <p>Rahbariyat</p>
-                <p>Qabul</p>
+                {/* <p>Rahbariyat</p> */}
+                <Link style={{textDecoration: "none"}} to='/qabul'><p>Qabul</p></Link> 
                 <p>Aloqa</p>
             </div>
         </section>
