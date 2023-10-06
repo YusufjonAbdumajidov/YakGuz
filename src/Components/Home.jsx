@@ -6,12 +6,14 @@ import Hamkorlik from "./Hamkorlik";
 import Contact from "./Contact";
 
 
+
 const Home = () => {
   return <>
       <Main />
       <About />
       <Hamkorlik />
       <Contact />
+    
   </>
 }
 
