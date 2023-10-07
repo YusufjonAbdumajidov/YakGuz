@@ -6,4 +6,4 @@ const Qabul = () => {
   )
 }
 
-// export default Qabul
+export default Qabul
