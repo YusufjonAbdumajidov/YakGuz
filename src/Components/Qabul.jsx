@@ -3,27 +3,28 @@ import React from 'react'
 const Qabul = () => {
   return (
     <div className='qabulContainer'>
+      <h1>Qabul Jadvali</h1>
       <table border="1">
         <tr>
-            <th>Header 1</th>
-            <th>Header 2</th>
-            <th>Header 3</th>
-            <th>Header 4</th>
-            <th>Header 5</th>
+            <th>Lavozimi</th>
+            <th>F.I.SH</th>
+            <th>Qabul kunlari</th>
+            <th>Qabul vaqti</th>
+            <th>Telefon raqami</th>
         </tr>
         <tr>
-            <td>Row 1, Column 1</td>
-            <td>Row 1, Column 2</td>
-            <td>Row 1, Column 3</td>
-            <td>Row 1, Column 4</td>
-            <td>Row 1, Column 5</td>
+            <td>Boshqarma boshlig'i</td>
+            <td>Azimov Bayramali Begmatovich</td>
+            <td>Har haftaning dushanba kuni</td>
+            <td>10:00 dan 12:00 gacha</td>
+            <td>93-900-19-72</td>
         </tr>
         <tr>
-            <td>Row 2, Column 1</td>
-            <td>Row 2, Column 2</td>
-            <td>Row 2, Column 3</td>
-            <td>Row 2, Column 4</td>
-            <td>Row 2, Column 5</td>
+            <td>Boshliq o'rinbosari</td>
+            <td></td>
+            <td>Har haftaning seshanba kuni</td>
+            <td>9:00 dan 12:00 gacha</td>
+            <td></td>
         </tr>
         <tr>
             <td>Row 3, Column 1</td>
