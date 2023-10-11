@@ -27,25 +27,25 @@ const Qabul = () => {
             <td></td>
         </tr>
         <tr>
-            <td>Row 3, Column 1</td>
-            <td>Row 3, Column 2</td>
-            <td>Row 3, Column 3</td>
-            <td>Row 3, Column 4</td>
-            <td>Row 3, Column 5</td>
+            <td>Boshqarma kasaba uyushma qo'mitasi raisi</td>
+            <td>Rasulov Sobir Rashidovich</td>
+            <td>Har haftaning chorshanba kuni</td>
+            <td>10:00 dan 12:00 gacha</td>
+            <td>93-525-3762</td>
         </tr>
         <tr>
-            <td>Row 4, Column 1</td>
-            <td>Row 4, Column 2</td>
-            <td>Row 4, Column 3</td>
-            <td>Row 4, Column 4</td>
-            <td>Row 4, Column 5</td>
+            <td>Kadrlar bo;yicha bosh mutaxasis</td>
+            <td>Qodirov Baxrom Jalilovich</td>
+            <td>Har haftaning payshanba kuni</td>
+            <td>9:00 dan 16:00 gacha</td>
+            <td>93-525-5159</td>
         </tr>
         <tr>
-            <td>Row 5, Column 1</td>
-            <td>Row 5, Column 2</td>
-            <td>Row 5, Column 3</td>
-            <td>Row 5, Column 4</td>
-            <td>Row 5, Column 5</td>
+            <td>Bosh yurikonsult</td>
+            <td>Turayev Nuridillo Toirovich</td>
+            <td>Har haftaning juma kuni</td>
+            <td>10:00 dan 12:00 gacha</td>
+            <td>97-290-04-65</td>
         </tr>
     </table>
     </div>
