@@ -11,6 +11,10 @@ const Qabul = () => {
             <th>Qabul kunlari</th>
             <th>Qabul vaqti</th>
             <th>Telefon raqami</th>
+            {/*  "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject" */}
         </tr>
         <tr>
             <td>Boshqarma boshlig'i</td>
