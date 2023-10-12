@@ -14,9 +14,8 @@
     "scss": "^0.2.4",
     "web-vitals": "^2.1.4"
   },
-  "engines":{
-    "node": "19.1.0",
-    "npm": ">=6.0.0"
+  "engines": {
+    "node": "16.x"
   },
   "scripts": {
     "start": "react-scripts start",
