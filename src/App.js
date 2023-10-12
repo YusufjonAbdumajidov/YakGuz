@@ -1,4 +1,5 @@
-import Main from "./Components/Main";
+// import Main from "./Components/Main";
+import React from "react";
 import "./style.scss";
 import { Routes, Route } from "react-router-dom";
 import Malumotlar from "./Components/Malumotlar";
